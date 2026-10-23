@@ -15,3 +15,7 @@ print(df.describe())
 print("-" * 100)
 
 print(df["Store ID"].value_counts())
+
+print("-" * 100)
+
+print(df[["Total Price", "Store ID"]])
