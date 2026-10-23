@@ -21,6 +21,12 @@ print("-" * 100)
 filtrado = df["Store ID"] == 8091
 print(df[filtrado])
 
+print("-" * 100)
+
 filtrado_avanzado = (df["Store ID"] == 8091) & (df["Total Price"] > 100)
 
 print(df[filtrado_avanzado])
+
+print("-" * 100)
+
+resultado = df["Store ID"].isin(["8091", "8094"]).index
