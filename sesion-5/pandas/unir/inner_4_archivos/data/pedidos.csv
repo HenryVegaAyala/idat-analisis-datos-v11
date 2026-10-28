@@ -1,0 +1,7 @@
+id_pedido,id_cliente,id_producto,cantidad
+P001,C001,PR01,2
+P002,C002,PR02,1
+P003,C003,PR03,5
+P004,C001,PR02,3
+P005,C004,PR04,1
+P006,C006,PR01,4

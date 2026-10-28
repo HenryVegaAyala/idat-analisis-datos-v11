@@ -1,0 +1,6 @@
+id_producto,producto,precio,id_categoria
+PR01,Laptop,2500,CAT1
+PR02,Mouse,50,CAT2
+PR03,Teclado,120,CAT2
+PR04,Monitor,900,CAT1
+PR05,Silla,400,CAT3
