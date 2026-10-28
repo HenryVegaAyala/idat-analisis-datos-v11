@@ -1,0 +1,13 @@
+id_venta,fecha,producto,cantidad,precio_unitario,vendedor,id_cliente
+V001,2026-01-03,Laptop,2,1500,Ana,C001
+V002,2026-01-04,Mouse,10,20,Luis,C002
+V003,2026-01-05,Teclado,5,45,Ana,C003
+V004,2026-01-07,Monitor,3,380,Carla,C001
+V005,2026-01-09,Mouse,8,20,Ana,C004
+V006,2026-01-12,Laptop,1,1500,Luis,C005
+V007,2026-01-14,Teclado,12,45,Carla,C002
+V008,2026-01-15,Auriculares,6,60,Ana,C003
+V009,2026-01-18,Monitor,2,380,Luis,C004
+V010,2026-01-20,Mouse,15,20,Carla,C006
+V011,2026-01-24,Laptop,3,1500,Ana,C007
+V012,2026-01-28,Auriculares,4,60,Luis,C001
