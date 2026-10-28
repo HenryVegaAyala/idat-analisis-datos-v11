@@ -1,0 +1,7 @@
+id_venta,fecha,producto,cantidad,precio_unitario,vendedor,id_cliente
+V046,2027-02-02,Teclado,7,45,Carla,C004
+V047,2027-02-06,Laptop,2,1500,Ana,C001
+V048,2027-02-10,Mouse,19,20,Luis,C003
+V049,2027-02-15,Monitor,4,380,Ana,C006
+V050,2027-02-20,Auriculares,6,60,Carla,C002
+V051,2027-02-25,Laptop,3,1500,Luis,C005
