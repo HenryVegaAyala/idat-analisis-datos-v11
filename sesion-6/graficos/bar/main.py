@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from fontTools.diff import color
 
 # Datos de ejemplo
 ciudades = ["Lima", "Arequipa", "Cusco"]
@@ -11,6 +10,6 @@ plt.title("Ventas por Ciudad")
 plt.xlabel("Ciudad")
 plt.ylabel("Ventas")
 
-plt.grid(linestyle="--", alpha=0.3)
+plt.grid(linestyle="--", alpha=0.5 , axis="y")
 
 plt.show()
